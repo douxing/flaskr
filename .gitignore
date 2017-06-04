@@ -1,0 +1,12 @@
+# emacs temp files
+**.*~
+
+# python/flask temp files
+*.pyc
+*.db
+
+**egg-info/
+
+
+
+
